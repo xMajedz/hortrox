@@ -1,0 +1,16 @@
+{
+  "name": "hortrox",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy-commands": "node deploy-commands.js"
+  },
+  "keywords": [],
+  "author": "xMajedz",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
